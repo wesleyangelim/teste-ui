@@ -1,0 +1,24 @@
+{
+  "name": "teste-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyangelim/teste-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyangelim/teste-ui/issues"
+  },
+  "homepage": "https://github.com/wesleyangelim/teste-ui#readme",
+  "devDependencies": {
+    "cypress": "^15.1.0"
+  }
+}
